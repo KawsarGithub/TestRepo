@@ -1,0 +1,40 @@
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\RealtimeDemo.dll.config
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\RealtimeDemo.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\RealtimeDemo.pdb
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Security.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Newtonsoft.Json.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Owin.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.xml
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Security.xml
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Newtonsoft.Json.xml
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\obj\Debug\RealtimeDemo.csprojResolveAssemblyReference.cache
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\obj\Debug\RealtimeDemo.dll
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\obj\Debug\RealtimeDemo.pdb
+C:\Projects\local\Jaxara\@Training\RealtimeDemo\RealtimeDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\RealtimeDemo.dll.config
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\RealtimeDemo.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\RealtimeDemo.pdb
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Security.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Newtonsoft.Json.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Owin.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.xml
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Microsoft.Owin.Security.xml
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\bin\Newtonsoft.Json.xml
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\obj\Debug\RealtimeDemo.csprojResolveAssemblyReference.cache
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\obj\Debug\RealtimeDemo.dll
+D:\Official Docs\Training\Training Item-7 SignalR\RealtimeDemo\RealtimeDemo\obj\Debug\RealtimeDemo.pdb
