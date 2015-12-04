@@ -12,6 +12,7 @@
     public class ProductsHub : Hub
     {
         private const string Room = "Products";
+        private string test = "";
 
         private static readonly ConcurrentDictionary<string, string> Sessions = 
             new ConcurrentDictionary<string, string>();
